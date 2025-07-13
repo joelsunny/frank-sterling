@@ -15,7 +15,7 @@ st.set_page_config(
 # Simplified CSS styling
 st.markdown("""
     <style>
-    .main { background-color: #f8f9fa; }
+    .main { background-color: #111112; }
     .metric-card { 
         background-color: #fff; 
         padding: 1rem; 
